@@ -35,7 +35,7 @@ main {
     margin-right: auto;
 }
 
-h1.title {
+h1 {
     color: hsl(218, 44%, 22%);
     margin-top: 15px;
     text-align: center;
@@ -43,7 +43,7 @@ h1.title {
     font-weight: 700;
 }
 
-p.subtext {
+p {
     color: hsl(220, 15%, 55%);
     margin-top: 13px;
     text-align: center;
